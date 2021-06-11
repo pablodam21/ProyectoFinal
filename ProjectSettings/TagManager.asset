@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door
+  - EnemyBlock
+  - EnemyFlying
+  - EnemyWalker
+  - MagicStone
+  - EndLife
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Character
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1569349929
+    locked: 0
+  - name: Character
+    uniqueID: 2019039349
+    locked: 0
+  - name: Ground
+    uniqueID: 281653175
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

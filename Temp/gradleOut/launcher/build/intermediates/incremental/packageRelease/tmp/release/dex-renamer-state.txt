@@ -1,0 +1,4 @@
+#Fri Jun 11 11:10:14 CEST 2021
+base.0=/home/batoi/To Much levels for one  life/Temp/gradleOut/launcher/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
